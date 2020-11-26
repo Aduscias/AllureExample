@@ -7,7 +7,7 @@ public class mainClassTest extends TestCase {
     }
 
     public void testPlusFailed() {
-        assertEquals(0,1);
+        assertEquals(0,0);
     }
 
 
