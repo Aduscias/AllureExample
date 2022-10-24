@@ -4,6 +4,7 @@ public class mainClass {
 
         int x = 5;
         int y = 10;
+        int z = 6;
 
         mainClass mainClass = new mainClass();
 
