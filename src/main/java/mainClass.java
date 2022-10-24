@@ -4,7 +4,7 @@ public class mainClass {
 
         int x = 5;
         int y = 10;
-        int z = 7;
+        int z = 9;
 
         mainClass mainClass = new mainClass();
 
